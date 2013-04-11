@@ -1,10 +1,11 @@
 # connect_tester.js
 
 
-Testing connect for clientside application
+Testing connect for clientside application.
 
 
 # Usage
+
 
 Create tester:
 ```js
@@ -34,7 +35,10 @@ function(duration){
 }
 ```
 
-Full example:
+
+# Full example
+
+
 ```js
 (new ConnectTester)
     .test('xxx.png')
