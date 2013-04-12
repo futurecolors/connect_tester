@@ -5,7 +5,7 @@ Testing connection of clientside application.
 
 Sometimes you need to know if your user has slow connection and you want to suggest
 gracefully degraded version of your app. ``connect_tester.js`` downloads a file
-from server once in a while to allw you to determine how long did it take to make assumptions
+from server once in a while to allow you to determine how long did it take to make assumptions
 on how slow it is.
 
 
